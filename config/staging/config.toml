@@ -1,0 +1,10 @@
+relativeURLs = true
+
+
+
+
+languageCode = "en-us"
+title = "Azure pipelines with container apps"
+theme = "ananke"
+
+disablePathToLower = true

@@ -1,0 +1,10 @@
+relativeURLs = false
+baseURL = "dmc--o1pqagu.internal.jollydune-57546791.uksouth.azurecontainerapps.io"
+
+
+
+languageCode = "en-us"
+title = "Azure pipelines"
+theme = "ananke"
+
+disablePathToLower = true
